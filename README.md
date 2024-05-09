@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Zac</h1>
-<h3 align="center">An Earthling who's found enjoyment it starting at a screen and writing repetitive lines of characters</h3>
 
 - 🔭 I’m currently working on a solo project for my bootcamp [NC News](https://github.com/zacharvey88/nc-news)
 
