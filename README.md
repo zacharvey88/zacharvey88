@@ -1,13 +1,33 @@
-<h1 align="center">Hi 👋, I'm Zac</h1>
+<h1>Welcome to My GitHub Profile!</h1>
 
-- 🔭 I’m currently working on a solo project for my bootcamp [NC News](https://github.com/zacharvey88/nc-news)
+  <h2>About Me</h2>
+  <p>Hello there! 👋 I'm a junior software developer with a passion for crafting elegant and efficient solutions to real-world problems. My journey into the world of software development began with an intensive three-month bootcamp at Northcoders, where I honed my skills in full-stack development.</p>
 
-- 🌱 I’m currently learning **Full-Stack development using JS, Express, Node PostgreSQL**
+  <h2>Skills</h2>
+  <h3>Backend Development</h3>
+  <ul>
+    <li><strong>Languages:</strong> JavaScript</li>
+    <li><strong>Frameworks/Technologies:</strong> Node.js, Express.js</li>
+    <li><strong>Testing:</strong> Jest, Supertest</li>
+  </ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zacharvey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zacharvey" height="30" width="40" /></a>
-</p>
+  <h3>Frontend Development</h3>
+  <ul>
+    <li><strong>Languages:</strong> HTML, CSS</li>
+    <li><strong>Frameworks/Technologies:</strong> React.js, Vite</li>
+  </ul>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> </p>
+  <h2>What I Bring to the Table</h2>
+  <ul>
+    <li><strong>Adaptability:</strong> I thrive in dynamic environments and am quick to learn new technologies and methodologies.</li>
+    <li><strong>Problem-Solving:</strong> I approach challenges with a creative mindset, always striving to find the most effective solution.</li>
+    <li><strong>Collaboration:</strong> I value teamwork and effective communication and work hard to collaborate effectively with colleagues to achieve common goals.</li>
+  </ul>
+
+  <h2>Projects</h2>
+  <p>Feel free to explore my repositories to see some of the projects I've worked on. From full-stack web applications to smaller utility scripts, each project reflects my dedication to writing clean, maintainable code.</p>
+
+  <h2>Let's Connect!</h2>
+  <p>I'm currently seeking opportunities to grow and contribute in a professional software development environment. If you're interested in learning more about my work or discussing potential opportunities, feel free to reach out to me. I'm always open to connecting with fellow developers, potential employers, and anyone passionate about technology!</p>
+
+  <p>Thank you for visiting my GitHub profile. I look forward to the possibility of working together in the future! 🚀</p>
