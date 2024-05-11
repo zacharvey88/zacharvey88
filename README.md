@@ -1,6 +1,5 @@
 <h1>Welcome to My GitHub Profile!</h1>
 
-  <h2>About Me</h2>
   <p>Hello there! 👋 I'm a junior software developer with a passion for crafting elegant and efficient solutions to real-world problems. My journey into the world of software development began with an intensive three-month bootcamp at Northcoders, where I honed my skills in full-stack development.</p>
 
   <h2>Skills</h2>
