@@ -1,32 +1,65 @@
-<h1>Welcome to My GitHub Profile!</h1>
+<!-- Intro  -->
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://zacharvey.com">Zac</a></b>
+        </samp>
+</h3>
 
-  <p>Hello there! 👋 I'm a junior software developer with a passion for crafting elegant and efficient solutions to real-world problems. My journey into the world of software development began with an intensive three-month bootcamp at Northcoders, where I honed my skills in full-stack development.</p>
 
-  <h2>Skills</h2>
-  <h3>Backend Development</h3>
-  <ul>
-    <li><strong>Languages:</strong> JavaScript</li>
-    <li><strong>Frameworks/Technologies:</strong> Node.js, Express.js</li>
-    <li><strong>Testing:</strong> Jest, Supertest</li>
-  </ul>
+<p align="center"> 
+  <samp>
+    <a href="https://www.google.com/search?q=Zac+Harvey">「 Google Me 」</a>
+    <br>
+    「 I am a junior full stack developer from <b>Manchester, UK</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-  <h3>Frontend Development</h3>
-  <ul>
-    <li><strong>Languages:</strong> HTML, CSS</li>
-    <li><strong>Frameworks/Technologies:</strong> React.js, Vite</li>
-  </ul>
+<p align="center">
+ <a href="https://zacharvey.com" target="blank">
+  <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="zac" />
+ </a>
+ <a href="https://linkedin.com/in/zacharvey" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="zac"/>
+ </a>
+</p>
+<br />
 
-  <h2>What I Bring to the Table</h2>
-  <ul>
-    <li><strong>Adaptability:</strong> I thrive in dynamic environments and am quick to learn new technologies and methodologies.</li>
-    <li><strong>Problem-Solving:</strong> I approach challenges with a creative mindset, always striving to find the most effective solution.</li>
-    <li><strong>Collaboration:</strong> I value teamwork and effective communication and work hard to collaborate effectively with colleagues to achieve common goals.</li>
-  </ul>
+<!-- About Section -->
+ # About me
+ 
+<p>
+ <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  
+ ✌️ &emsp; I enjoy making simple, elegant solutions<br/><br/>
+ ❤️ &emsp; I love to learn new things and challenge myself<br/><br/>
+ 📧 &emsp; Reach me anytime: zac.harvey@gmail.com<br/><br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/zacharvey88/zacharvey88/issues)
 
-  <h2>Projects</h2>
-  <p>Feel free to explore my repositories to see some of the projects I've worked on. From full-stack web applications to smaller utility scripts, each project reflects my dedication to writing clean, maintainable code.</p>
+</p>
 
-  <h2>Let's Connect!</h2>
-  <p>I'm currently seeking opportunities to grow and contribute in a professional software development environment. If you're interested in learning more about my work or discussing potential opportunities, feel free to reach out to me. I'm always open to connecting with fellow developers, potential employers, and anyone passionate about technology!</p>
+<br/>
+<br/>
 
-  <p>Thank you for visiting my GitHub profile. I look forward to the possibility of working together in the future! 🚀</p>
+## Tech Experience
+
+![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
+![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
+![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+<br/>
+
+<p align="left">
+  <a href="https://github.com/zacharvey88?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
