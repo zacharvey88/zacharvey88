@@ -8,7 +8,7 @@
 
 <p align="center"> 
   <samp>
-    「 I am a junior full stack developer from <b>Manchester, UK</b> 」
+    「 I am a full stack developer from <b>Manchester, UK</b> 」
     <br>
     <br>
   </samp>
